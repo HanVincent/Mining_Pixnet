@@ -7,3 +7,11 @@ D:\workspace\SMM_FinalProject\CrewPages\CrewPages\obj\Debug\CrewPages.pdb
 D:\workspace\SMM_FinalProject\CrewPages\CrewPages\bin\Debug\HtmlAgilityPack.dll
 D:\workspace\SMM_FinalProject\CrewPages\CrewPages\bin\Debug\Newtonsoft.Json.dll
 D:\workspace\SMM_FinalProject\CrewPages\CrewPages\bin\Debug\Newtonsoft.Json.xml
+D:\V_II\CrewPages\CrewPages\bin\Debug\CrewPages.exe.config
+D:\V_II\CrewPages\CrewPages\obj\Debug\CrewPages.exe
+D:\V_II\CrewPages\CrewPages\obj\Debug\CrewPages.pdb
+D:\V_II\CrewPages\CrewPages\bin\Debug\CrewPages.exe
+D:\V_II\CrewPages\CrewPages\bin\Debug\CrewPages.pdb
+D:\V_II\CrewPages\CrewPages\bin\Debug\Newtonsoft.Json.dll
+D:\V_II\CrewPages\CrewPages\bin\Debug\Newtonsoft.Json.xml
+D:\V_II\CrewPages\CrewPages\obj\Debug\CrewPages.csprojResolveAssemblyReference.cache
