@@ -1,0 +1,6 @@
+D:\GitHub\SMM_FinalProject\Rank\Rank\bin\Debug\Rank.exe.config
+D:\GitHub\SMM_FinalProject\Rank\Rank\bin\Debug\Rank.exe
+D:\GitHub\SMM_FinalProject\Rank\Rank\bin\Debug\Rank.pdb
+D:\GitHub\SMM_FinalProject\Rank\Rank\obj\Debug\Rank.csprojResolveAssemblyReference.cache
+D:\GitHub\SMM_FinalProject\Rank\Rank\obj\Debug\Rank.exe
+D:\GitHub\SMM_FinalProject\Rank\Rank\obj\Debug\Rank.pdb
